@@ -27,6 +27,3 @@ This project implements a Mini Security Information and Event Management (SIEM) 
 ## Usage
 - Access Kibana at http://localhost:5601.
 - Check indices with `curl -X GET http://localhost:9200/_cat/indices/zeek*?v`.
-
-## License
-MIT (or choose another license).
